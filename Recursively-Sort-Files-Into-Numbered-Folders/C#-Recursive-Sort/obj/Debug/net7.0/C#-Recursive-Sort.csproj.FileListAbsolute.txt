@@ -1,0 +1,15 @@
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\bin\Debug\net7.0\C#-Recursive-Sort.exe
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\bin\Debug\net7.0\C#-Recursive-Sort.deps.json
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\bin\Debug\net7.0\C#-Recursive-Sort.runtimeconfig.json
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\bin\Debug\net7.0\C#-Recursive-Sort.dll
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\bin\Debug\net7.0\C#-Recursive-Sort.pdb
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\C#-Recursive-Sort.csproj.AssemblyReference.cache
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\C#-Recursive-Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\C#-Recursive-Sort.AssemblyInfoInputs.cache
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\C#-Recursive-Sort.AssemblyInfo.cs
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\C#-Recursive-Sort.csproj.CoreCompileInputs.cache
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\C#-Recursive-Sort.dll
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\refint\C#-Recursive-Sort.dll
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\C#-Recursive-Sort.pdb
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\C#-Recursive-Sort.genruntimeconfig.cache
+C:\Users\Lukeg\Desktop\GitHub\MyRepos\Random-Scripts\Recursively-Sort-Files-Into-Numbered-Folders\C#-Recursive-Sort\obj\Debug\net7.0\ref\C#-Recursive-Sort.dll
